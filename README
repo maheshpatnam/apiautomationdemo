@@ -1,0 +1,55 @@
+Tools and Technologies used:
+Java 8
+Maven
+TestNG
+SLF4J
+GitHUb
+Rest Assured framework for api automation
+IntelliJ IDEA IDE
+
+
+
+How to Run All tests  at a time in MAC:
+-> go to inside project
+-> open mac terminal
+-> enter mvn test
+
+
+How to Run one testcase  at a time in MAC:
+-> go to inside project
+ src->test->java->testcases
+-> right click on Individual testcase, run as testng test
+
+
+
+
+API examples
+getweather details
+
+method: get
+url : http://restapi.demoqa.com/utilities/weather/city/Hyderabad
+
+
+create  customer details
+
+method : post
+url : http://restapi.demoqa.com/customer/register
+
+Header:
+Name: Content-Type
+Value:application/json
+
+payload:
+
+ {
+   "FirstName" : "mahesh",
+   "LastName" : "patnam",
+   "UserName" : "maheshpatnam",
+   "Password" : "Voiceworks02",
+   "Email"  : "mahesh.patnam221@gmail.com"
+ }
+
+
+expected code :201
+
+
