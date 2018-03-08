@@ -4,11 +4,10 @@ import org.slf4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import services.Weather;
-
 import static org.slf4j.LoggerFactory.getLogger;
 
 /**
- * Twitter Authentication service test cases
+ * weather service test cases
  *
  */
 public class getWeatherDetailsTest {

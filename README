@@ -53,3 +53,16 @@ payload:
 expected code :201
 
 
+Api examples
+http://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22
+http://restcountries.eu/rest/v1/name/norway
+http://openweathermap.org/
+http://parabank.parasoft.com/parabank/services/bank/customers/12212/
+http://freegeoip.net/json/yahoo.com
+http://services.groupkt.com/country/get/iso2code/US
+https://reqres.in/
+
+
+
+
+

@@ -9,7 +9,7 @@ import testutilities.TestUtilities;
 import static org.slf4j.LoggerFactory.getLogger;
 
 /**
- * Twitter Authentication service test cases
+ * create customer service testcases
  *
  */
 public class CreateCustomerTest {
